@@ -17,6 +17,11 @@ Teaching
 ======
 At Cornell, I am a teaching assistant of <u>MATH2940: Linear Algebra for Engineers</u> in (Fall 2024, Spring 2025). At KU, I was a TA in <u>MATH221: Linear Algebra I</u> in (Spring 2022, 2023) and <u>MATH222: Linear Algebra II</u> in (Fall 2022, 2023).
 
+Collaborators
+------
+- Current: Sarah Dean, Yahya Sattar, Maryam Fazel, Yassir Jedra, Seunsang Oh, Il-Youp Kwak, Seungeun Lee, Sanghyuk Cheong, Soyul Han, Seoyoung Park
+- Previous: Sangyop Lee, Hyun-Gil Shin, Taein Kang, Jaejin Seo
+
 For more details
 ------
 Feel free to email me!
