@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Sunmook Choi 최선묵"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sunmook Choi"
 description              : &description "personal description"
 url                      : https://sunmookchoi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Sunmook Choi, 최선묵"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Ithaca NY USA"
+  bio              : "PhD student at Cornell's Center for Applied Mathematics (CAM)"
+  location         : "Ithaca, NY USA"
   employer         : "Cornell University"
   uri              : # URL
   email            : "sc3377@cornell.edu" 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sunmookchoi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sunmook-choi-ab0b17271"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
