@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year PhD student in [Center for Applied Mathematics](https://cam.cornell.edu) at Cornell University.
 
-I am interested in the interplay between control theory and machine learning under the supervision of Professor [Sarah Dean](https://sdean.website). My research interests include audio deep learning, deep reinforcement learning, and enumerative combinatorics. 
+I am studying the interplay between control theory and machine learning under the supervision of Professor [Sarah Dean](https://sdean.website). My research interests include audio deep learning, deep reinforcement learning, and enumerative combinatorics. 
 
 I received my B.S. and M.S. in Mathematics at Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home).
 
