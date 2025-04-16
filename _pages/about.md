@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sunmook Choi is a first-year PhD student in [Center for Applied Mathematics](https://cam.cornell.edu) at Cornell University.
+I am a first-year PhD student in [Center for Applied Mathematics](https://cam.cornell.edu) at Cornell University.
 
 I am interested in the interplay between control theory and machine learning under the supervision of Professor [Sarah Dean](https://sdean.website). My research interests include audio deep learning, deep reinforcement learning, and enumerative combinatorics. 
 
