@@ -14,7 +14,7 @@ I study control-theoretic machine learning under the supervision of Professor [S
 I received my B.S. in Mathematics in 2022 and my M.S. in Mathematics in 2024, both from Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home) in [DLmath Lab](https://dlmath-lab.github.io).
 
 
-Publication
+Publications
 ======
 My papers are available in [Google Scholar](https://scholar.google.com/citations?user=dfvASkMAAAAJ&hl=en). 
 
