@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year PhD student in [Center for Applied Mathematics (CAM)](https://cam.cornell.edu) at Cornell University.
 
-I am studying the interplay between control theory and machine learning under the supervision of Professor [Sarah Dean](https://sdean.website). My current research is about analyzing regret bounds of bilinear bandit problems. I'm also interested in their application.
+I study control-theoretic machine learning under the supervision of Professor [Sarah Dean](https://sdean.website). My current research is about analyzing regret bounds of bilinear bandit problems. I'm also interested in their application.
 
 I received my B.S. and M.S. in Mathematics at Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home).
 
