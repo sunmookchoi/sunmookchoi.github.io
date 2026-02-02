@@ -9,12 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Applied Mathematics, Cornell University, Aug. 2024 - Present
-* M.S. in Mathematics, Korea University, Mar. 2022 - Aug. 2024
-* B.S. in Mathematics, Korea University, Mar. 2016 - Feb. 2022
-  * Military Service: Auxiliary Police, Jun. 2017 - Feb. 2019
+[CV (updated: Feb. 2026)](../files/CV.pdf)
 
 
 <!-- Publications
