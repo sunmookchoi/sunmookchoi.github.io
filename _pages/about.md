@@ -13,6 +13,11 @@ I study control-theoretic machine learning under the supervision of Professor [S
 
 I received my B.S. and M.S. in Mathematics at Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home).
 
+
+CV
+======
+This is a [link](../files/CV.pdf) for my CV. (updated Feb. 2026)
+
 Publication
 ======
 My papers are available in [Google Scholar](https://scholar.google.com/citations?user=dfvASkMAAAAJ&hl=en). 
