@@ -25,4 +25,5 @@ In Spring 2026, I am a teaching assistant of <u>MATH4310: Linear Algebra </u>. I
 News
 ======
 - Jan. 2026: Accepted to AISTATS 2026! ([paper link](https://arxiv.org/pdf/2510.16208))
-- Dec. 2025: Attended CDC2025 in Rio, Brazil! Presented a 15-minute talk about [this paper](https://arxiv.org/pdf/2504.11555?).
+- Dec. 2025: Attended CDC 2025 in Rio, Brazil! Presented a 15-minute talk about [this paper](https://arxiv.org/pdf/2504.11555?).
+- May 2025: Attended [NESCW 2025](https://nescw.org) in Columbia University! Presented a [poster](../files/nescw2025_poster.pdf) about [this paper](https://arxiv.org/pdf/2504.11555?).
