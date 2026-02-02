@@ -11,7 +11,7 @@ I am a second-year PhD student in [Center for Applied Mathematics (CAM)](https:/
 
 I study control-theoretic machine learning under the supervision of Professor [Sarah Dean](https://sdean.website). My current research is about analyzing regret bounds of bilinear bandit problems. I'm also interested in their application.
 
-I received my B.S. and M.S. in Mathematics at Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home).
+I received my B.S. in Mathematics in 2022 and my M.S. in Mathematics in 2024, both from Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home) in [DLmath Lab](https://dlmath-lab.github.io).
 
 
 CV
