@@ -13,7 +13,7 @@ I study learning-based control under the supervision of Professor [Sarah Dean](h
 
 $$\begin{aligned}
 x_{t+1} &= Ax_t + Bu_t + w_t \\
-y_t &= u_t^\top C x_t + z_t \quad \text{or} \quad y_t = \left(C_0 + \sum_{k=1}^p (u_t)_k C_k \right) + v_t
+y_t &= u_t^\top C x_t + z_t \quad \text{or} \quad y_t = \left(C_0 + \sum_{k=1}^p (u_t)_k C_k \right)x_t + v_t
 \end{aligned}$$
 
 My work consists of [bandit problems](https://arxiv.org/abs/2510.16208), [optimal control problems](https://arxiv.org/abs/2504.11555), and applications in recommender systems.
