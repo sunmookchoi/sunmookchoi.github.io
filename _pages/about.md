@@ -32,6 +32,9 @@ In Spring 2026, I am a teaching assistant of <u>MATH4310: Linear Algebra </u>. I
 
 News
 ======
+- [New!] 05/2026: Attended AISTATS in Tanger, Morocco! Presented a [poster](../files/aistats_poster.pdf).
+- [New!] 04/2026: Our paper got accepted to ICML 2026! (with Y. Sattar, L. Maynard-Zhang, Y. Jedra, M. Fazel, S. Dean)
+- [New!] 04/2026: A paper is now available in arXiv! ([paper link](https://arxiv.org/pdf/2604.24663))
 - 03/2026: Served as a reviewer for ICML 2026.
 - 01/2026: Accepted to AISTATS 2026! ([paper link](https://arxiv.org/pdf/2510.16208))
 - 12/2025: Attended CDC 2025 in Rio, Brazil! Presented a 15-minute talk about [this paper](https://arxiv.org/pdf/2504.11555?).
