@@ -32,6 +32,7 @@ In Spring 2026, I am a teaching assistant of <u>MATH4310: Linear Algebra </u>. I
 
 News
 ======
+- [New!] 05/2026: Designated as a **Gold Reviewer** (top 25\% of the reviewers) from ICML 2026! Thanks for the area chairs!
 - [New!] 05/2026: Attended AISTATS in Tanger, Morocco! Presented a [poster](../files/aistats_poster.pdf).
 - [New!] 04/2026: Our paper got accepted to ICML 2026! (with Y. Sattar, L. Maynard-Zhang, Y. Jedra, M. Fazel, S. Dean)
 - [New!] 04/2026: A paper is now available in arXiv! ([paper link](https://arxiv.org/pdf/2604.24663))
