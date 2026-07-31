@@ -31,6 +31,7 @@ In previous semesters, I was a teaching assistant of <u>MATH2940: Linear Algebra
 
 News
 ======
+- [New!] 07/2026: Served as a reviewr for NeurIPS 2027.
 - [New!] 07/2026: Attended ICML in Seoul, Korea! Presented a [poster](../files/ICML-poster.pdf) of the [paper](https://openreview.net/pdf?id=bMSnvqVWaB).
 - 05/2026: Designated as a **Gold Reviewer** (top 25% of the reviewers) from ICML 2026! Thanks for the area chairs, and see you all there!
 - 05/2026: Attended AISTATS in Tanger, Morocco! Presented a [poster](../files/aistats_poster.pdf).
