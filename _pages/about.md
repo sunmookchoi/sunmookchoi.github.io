@@ -24,16 +24,19 @@ Publications
 ======
 The most up to date list of my papers is available in [Google Scholar](https://scholar.google.com/citations?user=dfvASkMAAAAJ&hl=en). 
 
-### Selected Publications
-- Two-Layer Linear Auto-Regressive Models Estimate Latent States (Yahya Sattar, Sunmook Choi, Leo Maynard-Zhang, Yassir Jedra, Maryam Fazel, Sarah Dean) ICML 2026
-- Explore-then-Commit for Nonstationary Linear Bandits with Latent Dynamics ( Sunmook CHoi, Yahya Sattar, Yassir Jedra, Maryam Fazel, Sarah Dean) AISTATS 2026
-- Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control (Daniel Cao*, Beixi Du*, Andrew Lowitt*, Sunmook Choi*, Sarah Dean, Yahya Sattar) [arXiv](https://arxiv.org/abs/2604.24663)
-- Sub-optimality of the Separation Principle for Quadratic Control from Bilinear Observations (Yahya Sattar, Sunmook Choi, Yassir Jedra, Maryam Fazel, Sarah Dean) CDC 2025
-- TB-ResNet: Bridging the gap from TDNN to ResNet in automatic speaker verification with temporal-bottleneck enhancement (Sunmook Choi, Sanghyeok Chung, Seungeun Lee, Soyul Han, Taein Kang, Jaejin Seo, Il-Youp Kwak, Seungsang Oh) ICASSP 2024
-- Augmented Aztec bipyramid and dicube tilings (Sunmook Choi, Sangyop Lee, Seungsang Oh) Discrete Mathematics 2024 (**Editor's Choice**)
-- Low-quality fake audio detection through frequency feature masking (Il-Youp Kwak, Sunmook Choi, Jonghoon Yang, Yerin Lee, Soyul Han, Seungsang Oh) The 1st International workshop on deepfake detection for audio multimedia, ACM 2022
-- Overlapped Frequency-Distributed Network: Frequency-Aware Voice Spoofing Countermeasure (Sunmook Choi, Il-Youp Kwak, Seungsang Oh) Interspeech 2022
-- Light-weight frequency information aware neural network architecture for voice spoffing detection (Sunmook Choi, Jonghoon Yang, Yerin Lee, Seungsang Oh, Il-Youp Kwak) ICPR 2022
+## Selected Publications
+### Cornell University
+- Two-Layer Linear Auto-Regressive Models Estimate Latent States (Yahya Sattar, <u>Sunmook Choi</u>, Leo Maynard-Zhang, Yassir Jedra, Maryam Fazel, Sarah Dean) ICML 2026
+- Explore-then-Commit for Nonstationary Linear Bandits with Latent Dynamics (<u>Sunmook Choi</u>, Yahya Sattar, Yassir Jedra, Maryam Fazel, Sarah Dean) AISTATS 2026
+- Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control (Daniel Cao, Beixi Du, Andrew Lowitt, <u>Sunmook Choi</u>, Sarah Dean, Yahya Sattar) [arXiv](https://arxiv.org/abs/2604.24663)
+- Sub-optimality of the Separation Principle for Quadratic Control from Bilinear Observations (Yahya Sattar, <u>Sunmook Choi</u>, Yassir Jedra, Maryam Fazel, Sarah Dean) CDC 2025
+
+### Korea University
+- TB-ResNet: Bridging the gap from TDNN to ResNet in automatic speaker verification with temporal-bottleneck enhancement (<u>Sunmook Choi</u>, Sanghyeok Chung, Seungeun Lee, Soyul Han, Taein Kang, Jaejin Seo, Il-Youp Kwak, Seungsang Oh) ICASSP 2024
+- Augmented Aztec bipyramid and dicube tilings (<u>Sunmook Choi</u>, Sangyop Lee, Seungsang Oh) Discrete Mathematics 2024 (**Editor's Choice**)
+- Low-quality fake audio detection through frequency feature masking (Il-Youp Kwak, <u>Sunmook Choi</u>, Jonghoon Yang, Yerin Lee, Soyul Han, Seungsang Oh) The 1st International workshop on deepfake detection for audio multimedia, ACM 2022
+- Overlapped Frequency-Distributed Network: Frequency-Aware Voice Spoofing Countermeasure (<u>Sunmook Choi</u>, Il-Youp Kwak, Seungsang Oh) Interspeech 2022
+- Light-weight frequency information aware neural network architecture for voice spoffing detection (<u>Sunmook Choi</u>, Jonghoon Yang, Yerin Lee, Seungsang Oh, Il-Youp Kwak) ICPR 2022
 
 
 
