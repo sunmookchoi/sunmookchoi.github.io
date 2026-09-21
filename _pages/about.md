@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Choi, Sunmook (/tʃɔɪ sʌnˈmʊk/), 최선묵 (崔善默)"
+title: "Choi, Sunmook / 최선묵"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a rising third-year PhD student in [Center for Applied Mathematics (CAM)](https://cam.cornell.edu) at Cornell University.
+I am a third-year PhD student in [Center for Applied Mathematics (CAM)](https://cam.cornell.edu) at Cornell University, under the supervision of Professor [Sarah Dean](https://sdean.website).
 
-I study learning-based control under the supervision of Professor [Sarah Dean](https://sdean.website). My current research is mainly focused on linear dynamics with bilinear observations:
+I study bandits, reinforcement learning, optimal control using tools and concepts from statistical learning theory, optimization, and control theory. My current research is mainly focused on linear dynamics with bilinear observations:
 
 $$\begin{aligned}
 x_{t+1} &= Ax_t + Bu_t + w_t \\
@@ -18,11 +18,23 @@ y_t &= u_t^\top C x_t + z_t
 
 My work consists of [bandit problems](https://arxiv.org/abs/2510.16208), [optimal control problems](https://arxiv.org/abs/2504.11555), and recommender systems.
 
-I received my B.S. in Mathematics in 2022 and my M.S. in Mathematics in 2024, both from Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home) in [DLmath Lab](https://dlmath-lab.github.io). I had mainly worked on deep learning in audio domain, such as model design for audio spoofing detection, automatic speaker verification (ASV), etc.
+I received my M.S. in Mathematics in 2024 and my B.S. in Mathematics in 2022, both from Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home) in [DLmath Lab](https://dlmath-lab.github.io). I had mainly worked on deep learning in audio domain, such as model design for audio spoofing detection, automatic speaker verification (ASV), etc.
 
 Publications
 ======
-My papers are available in [Google Scholar](https://scholar.google.com/citations?user=dfvASkMAAAAJ&hl=en). 
+The most up to date list of my papers is available in [Google Scholar](https://scholar.google.com/citations?user=dfvASkMAAAAJ&hl=en). 
+
+### Selected Publications
+- Two-Layer Linear Auto-Regressive Models Estimate Latent States (Yahya Sattar, Sunmook Choi, Leo Maynard-Zhang, Yassir Jedra, Maryam Fazel, Sarah Dean) ICML 2026
+- Explore-then-Commit for Nonstationary Linear Bandits with Latent Dynamics ( Sunmook CHoi, Yahya Sattar, Yassir Jedra, Maryam Fazel, Sarah Dean) AISTATS 2026
+- Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control (Daniel Cao*, Beixi Du*, Andrew Lowitt*, Sunmook Choi*, Sarah Dean, Yahya Sattar) [arXiv](https://arxiv.org/abs/2604.24663)
+- Sub-optimality of the Separation Principle for Quadratic Control from Bilinear Observations (Yahya Sattar, Sunmook Choi, Yassir Jedra, Maryam Fazel, Sarah Dean) CDC 2025
+- TB-ResNet: Bridging the gap from TDNN to ResNet in automatic speaker verification with temporal-bottleneck enhancement (Sunmook Choi, Sanghyeok Chung, Seungeun Lee, Soyul Han, Taein Kang, Jaejin Seo, Il-Youp Kwak, Seungsang Oh) ICASSP 2024
+- Augmented Aztec bipyramid and dicube tilings (Sunmook Choi, Sangyop Lee, Seungsang Oh) Discrete Mathematics 2024 (**Editor's Choice**)
+- Low-quality fake audio detection through frequency feature masking (Il-Youp Kwak, Sunmook Choi, Jonghoon Yang, Yerin Lee, Soyul Han, Seungsang Oh) The 1st International workshop on deepfake detection for audio multimedia, ACM 2022
+- Overlapped Frequency-Distributed Network: Frequency-Aware Voice Spoofing Countermeasure (Sunmook Choi, Il-Youp Kwak, Seungsang Oh) Interspeech 2022
+- Light-weight frequency information aware neural network architecture for voice spoffing detection (Sunmook Choi, Jonghoon Yang, Yerin Lee, Seungsang Oh, Il-Youp Kwak) ICPR 2022
+
 
 
 Teaching
@@ -31,9 +43,10 @@ In previous semesters, I was a teaching assistant of <u>MATH2940: Linear Algebra
 
 News
 ======
-- [New!] 07/2026: Served as a reviewr for NeurIPS 2027.
-- [New!] 07/2026: Attended ICML in Seoul, Korea! Presented a [poster](../files/ICML-poster.pdf) of the [paper](https://openreview.net/pdf?id=bMSnvqVWaB).
+- 07/2026: Served as a reviewer for NeurIPS 2027.
+- 07/2026: Attended ICML in Seoul, Korea! Presented a [poster](../files/ICML-poster.pdf) of the [paper](https://openreview.net/pdf?id=bMSnvqVWaB).
 - 05/2026: Designated as a **Gold Reviewer** (top 25% of the reviewers) from ICML 2026! Thanks for the area chairs, and see you all there!
+- 05/2026: Served as a reviewer for TMLR.
 - 05/2026: Attended AISTATS in Tanger, Morocco! Presented a [poster](../files/aistats_poster.pdf).
 - 04/2026: Our paper got accepted to ICML 2026! (with Y. Sattar, L. Maynard-Zhang, Y. Jedra, M. Fazel, S. Dean)
 - 04/2026: A paper is now available in arXiv! ([paper link](https://arxiv.org/pdf/2604.24663))
