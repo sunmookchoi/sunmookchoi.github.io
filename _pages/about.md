@@ -9,14 +9,12 @@ redirect_from:
 
 I am a third-year PhD student in [Center for Applied Mathematics (CAM)](https://cam.cornell.edu) at Cornell University, under the supervision of Professor [Sarah Dean](https://sdean.website).
 
-I study bandits, reinforcement learning, optimal control using tools and concepts from statistical learning theory, optimization, and control theory. My current research is mainly focused on linear dynamics with bilinear observations:
+I study bandits, reinforcement learning, optimal control using tools and concepts from statistical learning theory, optimization, and control theory. My current research is mainly focused on [bandit problems](https://arxiv.org/abs/2510.16208), [optimal control problems](https://arxiv.org/abs/2504.11555), and recommender systems, using the following mathematical modeling (linear dynamics with bilinear observations):
 
 $$\begin{aligned}
 x_{t+1} &= Ax_t + Bu_t + w_t \\
 y_t &= u_t^\top C x_t + z_t
 \end{aligned}$$
-
-My work consists of [bandit problems](https://arxiv.org/abs/2510.16208), [optimal control problems](https://arxiv.org/abs/2504.11555), and recommender systems.
 
 I received my M.S. in Mathematics in 2024 and my B.S. in Mathematics in 2022, both from Korea University (KU). At KU, I'd had the pleasure of working with Professor [Seungsang Oh](https://sites.google.com/view/seungsangoh/home) in [DLmath Lab](https://dlmath-lab.github.io). I had mainly worked on deep learning in audio domain, such as model architecture designing for audio spoofing detection, automatic speaker verification, etc.
 
