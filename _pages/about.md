@@ -22,7 +22,7 @@ News
 ======
 - [New!] 10/2026: I passed my A-exam (PhD candidacy exam)! Huge thanks to my committee members!
 - [New!] 10/2026: Selected as a **Top Reviewer** from NeurIPS 2026!
-- 07/2026: Served as a reviewer for NeurIPS 2027.
+- 07/2026: Served as a reviewer for NeurIPS 2026.
 - 07/2026: Attended ICML in Seoul, Korea! Presented a [poster](../files/ICML-poster.pdf) of the [paper](https://openreview.net/pdf?id=bMSnvqVWaB).
 - 05/2026: Designated as a **Gold Reviewer** (top 25% of the reviewers) from ICML 2026! Thanks for the area chairs, and see you all there!
 - 05/2026: Served as a reviewer for TMLR.
