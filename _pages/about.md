@@ -20,7 +20,7 @@ I received my M.S. in Mathematics in 2024 and my B.S. in Mathematics in 2022, bo
 
 News
 ======
-- [New!] 10/2026: I passed my A-exam (PhD candidacy exam)! Huge thanks for my committee members!
+- [New!] 10/2026: I passed my A-exam (PhD candidacy exam)! Huge thanks to my committee members!
 - [New!] 10/2026: Selected as a **Top Reviewer** from NeurIPS 2026!
 - 07/2026: Served as a reviewer for NeurIPS 2027.
 - 07/2026: Attended ICML in Seoul, Korea! Presented a [poster](../files/ICML-poster.pdf) of the [paper](https://openreview.net/pdf?id=bMSnvqVWaB).
