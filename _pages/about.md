@@ -20,6 +20,8 @@ I received my M.S. in Mathematics in 2024 and my B.S. in Mathematics in 2022, bo
 
 News
 ======
+- [New!] 11/2026: Served as a reviewer for AISTATS 2027.
+- [New!] 10/2026: A new paper is now available in arXiv! ([paper link](https://arxiv.org/pdf/2610.33412))
 - [New!] 10/2026: I passed my A-exam (PhD candidacy exam)! Huge thanks to my committee members!
 - [New!] 10/2026: Selected as a **Top Reviewer** from NeurIPS 2026!
 - 07/2026: Served as a reviewer for NeurIPS 2026.
@@ -40,7 +42,7 @@ The most up to date list of my papers is available in [Google Scholar](https://s
 
 ## Selected Publications
 ### Cornell University
-- Performance Gaps Between Open-Loop, Certainty-Equivalent, and Optimal Control Under Action-Dependent Observations (Leo Maynard-Zhang, <u>Sunmook Choi</u>, Yahya Sattar, Yassir Jedra, Sarah Dean, Maryam Fazel) [arXiv]()
+- Performance Gaps Between Open-Loop, Certainty-Equivalent, and Optimal Control Under Action-Dependent Observations (Leo Maynard-Zhang, <u>Sunmook Choi</u>, Yahya Sattar, Yassir Jedra, Sarah Dean, Maryam Fazel) [arXiv]((https://arxiv.org/abs/2610.33412))
 - Two-Layer Linear Auto-Regressive Models Estimate Latent States (Yahya Sattar, <u>Sunmook Choi</u>, Leo Maynard-Zhang, Yassir Jedra, Maryam Fazel, Sarah Dean) ICML 2026
 - Explore-then-Commit for Nonstationary Linear Bandits with Latent Dynamics (<u>Sunmook Choi</u>, Yahya Sattar, Yassir Jedra, Maryam Fazel, Sarah Dean) AISTATS 2026
 - Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control (Daniel Cao, Beixi Du, Andrew Lowitt, <u>Sunmook Choi</u>, Sarah Dean, Yahya Sattar) [arXiv](https://arxiv.org/abs/2604.24663)
