@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year PhD candidate in [Center for Applied Mathematics (CAM)](https://cam.cornell.edu) at Cornell University, under the supervision of Professor [Sarah Dean](https://sdean.website).
 
-I study bandits, reinforcement learning, optimal control using tools and concepts from control theory, statistical learning theory, and optimization. My current research is mainly focused on [bandit problems](https://arxiv.org/abs/2510.16208), [optimal control problems](https://arxiv.org/abs/2504.11555), and recommender systems, using the following mathematical modeling (linear dynamics with bilinear observations):
+I study bandits, reinforcement learning, optimal control using tools and concepts from control theory, statistical learning theory, and optimization. My current research is mainly focused on learning and decision-making under observer effects (e.g., [bandit problems](https://arxiv.org/abs/2510.16208), [optimal control problems](https://arxiv.org/abs/2504.11555), and recommender systems). For example, I'm interested in problems related to the following model:
 
 $$\begin{aligned}
 x_{t+1} &= Ax_t + Bu_t + w_t \\
@@ -20,21 +20,20 @@ I received my M.S. in Mathematics in 2024 and my B.S. in Mathematics in 2022, bo
 
 News
 ======
-- [New!] 11/2026: Served as a reviewer for AISTATS 2027.
 - [New!] 10/2026: A new paper is now available in arXiv! ([paper link](https://arxiv.org/pdf/2610.33412))
 - [New!] 10/2026: I passed my A-exam (PhD candidacy exam)! Huge thanks to my committee members!
-- [New!] 10/2026: Selected as a **Top Reviewer** from NeurIPS 2026!
-- 07/2026: Served as a reviewer for NeurIPS 2026.
+- 10/2026: Selected as a **Top Reviewer** from NeurIPS 2026!
 - 07/2026: Attended ICML in Seoul, Korea! Presented a [poster](../files/ICML-poster.pdf) of the [paper](https://openreview.net/pdf?id=bMSnvqVWaB).
 - 05/2026: Designated as a **Gold Reviewer** (top 25% of the reviewers) from ICML 2026! Thanks for the area chairs, and see you all there!
-- 05/2026: Served as a reviewer for TMLR.
 - 05/2026: Attended AISTATS in Tanger, Morocco! Presented a [poster](../files/aistats_poster.pdf).
 - 04/2026: Our paper got accepted to ICML 2026! (with Y. Sattar, L. Maynard-Zhang, Y. Jedra, M. Fazel, S. Dean)
 - 04/2026: Our paper is now available in arXiv! ([paper link](https://arxiv.org/pdf/2604.24663))
-- 03/2026: Served as a reviewer for ICML 2026.
 - 01/2026: Accepted to AISTATS 2026! ([paper link](https://arxiv.org/pdf/2510.16208))
 - 12/2025: Attended CDC 2025 in Rio, Brazil! Presented a 15-minute talk about [this paper](https://arxiv.org/pdf/2504.11555).
 - 05/2025: Attended [NESCW 2025](https://nescw.org) in Columbia University! Presented a [poster](../files/nescw2025_poster.pdf) about [this paper](https://arxiv.org/pdf/2504.11555).
+
+## Reviewer Service
+- 2026: ICML 2026 (March), TMLR (May), NeurIPS 2026 (July), AISTATS 2027 (November), ACC 2027 (November)
 
 Publications
 ======

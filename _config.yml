@@ -22,7 +22,7 @@ repository               : "sunmookchoi/sunmoookchoi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Choi, Sunmook 최선묵"
   pronouns         : "he/him/his"
   bio              : "PhD candidate at Cornell University"
