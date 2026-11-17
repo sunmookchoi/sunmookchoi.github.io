@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV (updated: Oct. 2026)](../files/CV.pdf)
+[CV (updated: Nov. 2026)](../files/CV.pdf)
 
 
 <!-- Publications
